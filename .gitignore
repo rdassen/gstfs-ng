@@ -26,3 +26,6 @@ gstfs
 
 # Makefile's helper stuff
 stamp-h1
+
+# Backup files
+*~
